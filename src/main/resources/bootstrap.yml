@@ -7,4 +7,3 @@ spring:
       fail-fast: true
       retry:
         initial-interval: 1000
-
